@@ -1,0 +1,6 @@
+Create package.json file
+Create server.js file
+Install express module
+Create express application
+Attach port number to http server
+Create APIs
